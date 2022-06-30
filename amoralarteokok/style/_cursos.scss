@@ -1,0 +1,36 @@
+section { 
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    margin:20px 20px 20px 20px;
+
+
+}
+
+    .curso {
+        height: 100%;
+        width: 80%;
+        margin:20px 20px 20px 20px;
+        padding: auto;
+}
+
+
+.inscribite {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    margin:20px 20px 20px 20px;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+
+
+}
+
+    .card-img-top {
+        height: 100%;
+        width: 100%;
+    }
+
+     .card-text
+     {
+        color: black;
+     }
+

@@ -1,0 +1,17 @@
+.tutoriales  {
+    display: grid;
+    grid-template-columns: 2fr 2fr  ; 
+    grid-template-rows: 2fr 2fr  ;
+    overflow: auto;
+    margin: 40px 40px 40px 40px;
+    padding: auto;
+  
+   iframe {
+    width: ($ancho/2);
+    height: ($ancho/2);
+}
+       
+
+
+
+}
